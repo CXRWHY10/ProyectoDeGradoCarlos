@@ -7,8 +7,8 @@
 // =======================================================
 // CONFIGURACIÓN DE TU RED WI-FI Y CREDENCIALES WEB
 // =======================================================
-const char* ssid     = "ProyectoCarlos";
-const char* password = "carlitos10";
+const char* ssid     = "FLIA. LOPEZ";
+const char* password = "carlos1975";
 
 // Credenciales para iniciar sesión en la interfaz web 
 const char* www_username = "admin";
